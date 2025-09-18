@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/RQ28H2p/banner.png" alt="banner">
+<img src="https://i.imgur.com/xejUcS9.jpeg" alt="banner">
 <h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> OBITO-X-BOT</h1>
 
 <p align="center">
